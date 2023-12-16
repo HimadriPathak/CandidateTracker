@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CandidateTracker/static/css/main.3dcbdb30.css",
+    "main.js": "/CandidateTracker/static/js/main.27670872.js",
+    "static/js/787.eb6f36ea.chunk.js": "/CandidateTracker/static/js/787.eb6f36ea.chunk.js",
+    "index.html": "/CandidateTracker/index.html",
+    "main.3dcbdb30.css.map": "/CandidateTracker/static/css/main.3dcbdb30.css.map",
+    "main.27670872.js.map": "/CandidateTracker/static/js/main.27670872.js.map",
+    "787.eb6f36ea.chunk.js.map": "/CandidateTracker/static/js/787.eb6f36ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dcbdb30.css",
+    "static/js/main.27670872.js"
+  ]
+}
